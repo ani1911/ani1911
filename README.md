@@ -28,9 +28,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
   
-<a href="https://drive.google.com/file/d/1XivCMR8dq8fO-Z1JDuUEDugSjUAP7EtS/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/Download_Resume-38B2AC?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-</a>
+
 </p>
 
 ⭐ **Improving every day • Open to internship opportunities**
